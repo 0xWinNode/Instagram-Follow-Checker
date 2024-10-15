@@ -1,4 +1,4 @@
-# Instagram Follows Checker
+# Instagram Follows Checker Created by [Nofan Rambe]
 
 ## Description
 
